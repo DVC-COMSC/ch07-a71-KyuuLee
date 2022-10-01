@@ -6,7 +6,7 @@
       "run": "python main.py",
       "input": "10 5 20 0 40 45 50 55 9 10",
       "output": "[\\w,\\W]*14.40[\\w,\\W]*19.40[\\w,\\W]*4.40[\\w,\\W]*24.40[\\w,\\W]*15.60[\\w,\\W]*20.60[\\w,\\W]*25.60[\\w,\\W]*30.60[\\w,\\W]*15.40[\\w,\\W]*14.40[\\w,\\W]* ",
-      "comparison": "included",
+      "comparison": "regex",
       "timeout": 10,
       "points": 1
     },
